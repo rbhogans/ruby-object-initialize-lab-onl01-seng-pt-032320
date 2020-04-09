@@ -18,6 +18,9 @@ end
  def breed
    @breed
  end
+ 
+ def snoopy = Dog.new(Mutt) 
+   
 end
  
-snoopy = Dog.new(Mutt) 
+
